@@ -1,6 +1,6 @@
-- 👋 I’m Ishaq Ibrahim, Chemical student
-- 👀 I’m interested in Web and Data science
-- 💞️ I’m looking to collaborate on remote web apps solutions
+- 👋 I’m Ishaq Ibrahim
+- 👀 My expartise is Web and Data science
+- 💞️ I like solving problems to make this world a better place
 - 📫 Reach me via email ibagwai9@gmail.com
 
 <!---
